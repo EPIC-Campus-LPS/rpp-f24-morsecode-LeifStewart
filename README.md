@@ -8,7 +8,7 @@
 - Install the `pydub` library using [pip](https://pypi.org/project/pydub/). Use the library to play an `.mp3` file using Python. You can use the provided files or download your own for this step. [See how to use here](https://github.com/jiaaro/pydub#installation).
 - Add a digital button or touch sensor to trigger your `.mp3` file. 
 
-- [ ] Upload your code to this repository
+- [x] Upload your code to this repository
 
 ## Part 2 - Morse Code
 
